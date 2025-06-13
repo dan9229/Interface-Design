@@ -1,0 +1,104 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "iPhone 16 Pro Max",
+      "price": 5999.00,
+      "CPU": "A18 Pro",
+      "RAM": "8GB",
+      "storage": "256GB",
+      "screen": "6.9 inch",
+      "image": "image/iphone16_pro_max.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 16 Pro",
+      "price": 4999.00,
+      "CPU": "A18 Pro",
+      "RAM": "8GB",
+      "storage": "256GB",
+      "screen": "6.3 inch",
+      "image": "image/iphone16_pro.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 16",
+      "price": 3999.00,
+      "CPU": "A18",
+      "RAM": "4GB",
+      "storage": "128GB",
+      "screen": "6.1 inch",
+      "image": "image/iphone16.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 16e",
+      "price": 2999.00,
+      "CPU": "A18",
+      "RAM": "4GB",
+      "storage": "128GB",
+      "screen": "6.1 inch",
+      "image": "image/iphone16_e.jpg"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 15 Pro Max",
+      "price": 7499.00,
+      "CPU": "A17 Pro",
+      "RAM": "6GB",
+      "storage": "512GB",
+      "screen": "6.7 inch",
+      "image": "image/iphone15_pro_max.jpg"
+    },
+    {
+      "id": 6,
+      "name": "iPhone 15 Pro",
+      "price": 5999.00,
+      "CPU": "A17 Pro",
+      "RAM": "8GB",
+      "storage": "256GB",
+      "screen": "6.1 inch",
+      "image": "image/iphone15_pro.jpg"
+    },
+    {
+      "id": 7,
+      "name": "iPhone 15 Plus",
+      "price": 3999.00,
+      "CPU": "A16",
+      "RAM": "4GB",
+      "storage": "128GB",
+      "screen": "6.7 inch",
+      "image": "image/iphone15_plus.jpg"
+    },
+    {
+      "id": 8,
+      "name": "iPhone 15",
+      "price": 3499.00,
+      "CPU": "A16",
+      "RAM": "4GB",
+      "storage": "128GB",
+      "screen": "6.1 inch",
+      "image": "image/iphone15.jpg"
+    },
+    {
+      "id": 9,
+      "name": "iPhone 14 Pro Max",
+      "price": 3299.00,
+      "CPU": "A16",
+      "RAM": "6GB",
+      "storage": "256GB",
+      "screen": "6.7 inch",
+      "image": "image/iphone14_pro_max.jpg"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 14",
+      "price": 2999.00,
+      "CPU": "A15",
+      "RAM": "4GB",
+      "storage": "128GB",
+      "screen": "6.1 inch",
+      "image": "image/iphone14.jpg"
+    }
+  ]
+}
